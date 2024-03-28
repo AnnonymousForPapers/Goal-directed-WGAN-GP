@@ -1,0 +1,2 @@
+Training RumTime: 1378.583305(s)
+Program RumTime: 1401.0236893999997(s)
