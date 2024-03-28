@@ -1,0 +1,4 @@
+# of unique peptides from our method: 5648
+Most frequent sequence: ILEPWGIPRL, 111 occurance
+# of unique peptides from other method: 9835
+Most frequent sequence: TLEGEGGGV, 2 occurance

@@ -1,0 +1,40 @@
+outdir is D:/PhD thesis/GAN/Github/Data/Goal-directed_WGAN-GP_3/epoch0/
+30/30 [==============================] - 5s 5ms/step
+[493]
+951
+0.5184016824395373
+outdir is D:/PhD thesis/GAN/Github/Data/Goal-directed_WGAN-GP_3/epoch20/
+32/32 [==============================] - 0s 1ms/step
+[1017]
+1024
+0.9931640625
+outdir is D:/PhD thesis/GAN/Github/Data/Goal-directed_WGAN-GP_3/epoch40/
+32/32 [==============================] - 0s 2ms/step
+[1024]
+1024
+1.0
+outdir is D:/PhD thesis/GAN/Github/Data/Goal-directed_WGAN-GP_3/epoch60/
+32/32 [==============================] - 0s 1ms/step
+[1024]
+1024
+1.0
+outdir is D:/PhD thesis/GAN/Github/Data/Goal-directed_WGAN-GP_3/epoch80/
+32/32 [==============================] - 0s 1ms/step
+[1024]
+1024
+1.0
+outdir is D:/PhD thesis/GAN/Github/Data/Goal-directed_WGAN-GP_3/epoch100/
+32/32 [==============================] - 0s 1ms/step
+[1024]
+1024
+1.0
+outdir is D:/PhD thesis/GAN/Github/Data/Goal-directed_WGAN-GP_3/epoch1000/
+313/313 [==============================] - 1s 2ms/step
+[10000]
+10000
+1.0
+outdir is D:/PhD thesis/GAN/Github/Data/WGAN-GP/epoch1000/
+312/312 [==============================] - 1s 2ms/step
+[7876]
+9982
+0.7890202364255661
