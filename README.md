@@ -15,3 +15,7 @@ To produce most of the figures, the two models need to train with 0,20,40,60,80,
 For IC50 comparison, the user needs to manually put the generated peptides to the NetMHCpan website, put the IC50 prediction result in an excell file, and run 6. IC50_compare.py. An example excell file can be found in Results_in_manuscript\Goal-directed_WGAN-GP\epoch100\NetMHCpan_prediction_epoch100.csv.
 
 The Results_in_manuscript has the two models trained by the two different methods.
+
+--------------------Update 4/2/2024--------------------------------
+
+The new reults for the brain neoepitopes are in the folder "result_for_brain". The corresponding codes are in "code_for_brain".
