@@ -18,4 +18,5 @@ The Results_in_manuscript has the two models trained by the two different method
 
 --------------------Update 4/2/2024--------------------------------
 
-The new reults for the brain neoepitopes are in the folder "result_for_brain". The corresponding codes are in "code_for_brain".
+1. The new results for the brain neoepitopes are in the folder "result_for_brain". The corresponding codes are in "code_for_brain".
+2. The new results (box plots) of the immunogenicity score predicted by DeepHLApan and IEDB are in the folder "Evaluate_DeepHLApan" and "Evaluate_IEDB", respectively.
