@@ -1,0 +1,5 @@
+docker run biopharm/deephlapan:v1.1
+
+deephlapan -F C:\Users\ych22001\Downloads\1.csv -O C:\Users\ych22001\Downloads
+
+docker run -v C:\Users\ych22001\Downloads:/data -v C:\Users\ych22001\Downloads:/output biopharm/deephlapan:v1.1 deephlapan -F /data/GGAN.csv -O /output
